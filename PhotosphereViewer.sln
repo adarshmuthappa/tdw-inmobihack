@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F0470489-2D79-6969-DE30-8B33FC093DAB}") = "PhotosphereViewer", "Assembly-CSharp.csproj", "{AD3CABED-D36F-DA98-D8CC-BBE110F33B47}"
+EndProject
+Project("{F0470489-2D79-6969-DE30-8B33FC093DAB}") = "PhotosphereViewer", "Assembly-CSharp-Editor.csproj", "{69AD0687-A1C0-F182-C4C5-DBFA85A15989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD3CABED-D36F-DA98-D8CC-BBE110F33B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3CABED-D36F-DA98-D8CC-BBE110F33B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3CABED-D36F-DA98-D8CC-BBE110F33B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3CABED-D36F-DA98-D8CC-BBE110F33B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69AD0687-A1C0-F182-C4C5-DBFA85A15989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AD0687-A1C0-F182-C4C5-DBFA85A15989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AD0687-A1C0-F182-C4C5-DBFA85A15989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AD0687-A1C0-F182-C4C5-DBFA85A15989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
